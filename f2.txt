@@ -1,1 +1,2 @@
 file 2 is created. lets make some conflicts.
+I'm expecting conflicts.
